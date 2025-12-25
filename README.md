@@ -134,7 +134,9 @@ Meu nome é Bruno Benno Reichert, tenho 23 anos e sou natural de Porto Alegre no
 
 ### 📊 Estatísticas
 
-<p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno-reichert)
+
+<!-- <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -148,7 +150,7 @@ Meu nome é Bruno Benno Reichert, tenho 23 anos e sou natural de Porto Alegre no
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-reichert&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  /> -->
 
 </p>
 
