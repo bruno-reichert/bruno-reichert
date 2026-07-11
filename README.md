@@ -131,8 +131,24 @@ Meu nome é Bruno Benno Reichert, tenho 23 anos e sou natural de Porto Alegre no
 />
 <img 
     align="left" 
-    alt="NumPy" 
-    title="NumPy"
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Flask" 
+    title="Flask"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
