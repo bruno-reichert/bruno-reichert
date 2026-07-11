@@ -151,7 +151,7 @@ Meu nome é Bruno Benno Reichert, tenho 23 anos e sou natural de Porto Alegre no
     title="FastAPI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
 />
 <br/>
 <br/>
